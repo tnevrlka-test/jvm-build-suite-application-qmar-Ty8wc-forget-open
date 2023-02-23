@@ -8,7 +8,7 @@ metadata:
     app.kubernetes.io/managed-by: kustomize
     app.kubernetes.io/name: jvm-build-suite-component-krea
     app.kubernetes.io/part-of: jvm-build-suite-application-qmar
-  name: jvm-build-suite-componentgbp4
+  name: jvm-build-suite-componentv0vb
   namespace: jvm-build-odjk-tenant
 spec:
   port:
